@@ -8,7 +8,7 @@
   
 # Hi! I am Ramkrishna Saha 👋
 
-I'm a competitive coder gearing up Android Development
+I'm a competitive coder gearing up Web Development
 
 ![Age](https://img.shields.io/badge/Age-21-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Android-brightgreen)
